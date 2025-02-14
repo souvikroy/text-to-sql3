@@ -1,0 +1,41 @@
+Common Gaming Metrics and Questions:
+
+1. User Engagement Metrics:
+- Daily Active Users (DAU)
+- Monthly Active Users (MAU)
+- Average Session Duration
+- Session Frequency
+- Retention Rate = (Users active in current period / Users active in previous period) * 100
+
+2. Monetization Metrics:
+- Average Revenue Per User (ARPU) = Total Revenue / Total Users
+- Average Revenue Per Paying User (ARPPU) = Total Revenue / Paying Users
+- Conversion Rate = (Number of Paying Users / Total Users) * 100
+- Customer Lifetime Value (CLV) = ARPU * Average User Lifespan
+
+3. Bonus and Promotions:
+- Bonus Conversion Rate = (Converted Bonus Amount / Total Bonus Amount) * 100
+- Bonus ROI = (Revenue from Bonus Users - Bonus Cost) / Bonus Cost
+- Reactivation Rate = (Reactivated Users / Total Inactive Users) * 100
+
+4. User Behavior:
+- First Time Deposit (FTD) to Rolling Conversion Rate
+- Churn Rate = (Users Lost in Period / Total Users at Start of Period) * 100
+- Referral Success Rate = (Active Referred Users / Total Referrals) * 100
+
+Common Questions:
+1. What is the daily/monthly active user trend?
+2. Which user segments have the highest retention rates?
+3. What is the average session duration by user type?
+4. Which bonus types have the highest conversion rates?
+5. What is the ROI of different bonus structures?
+6. How does user behavior differ across geographies?
+7. What are the key indicators of potential churn?
+8. Which marketing channels bring in the most valuable users?
+9. What is the correlation between bonus amounts and user retention?
+10. How do payment gateway issues impact user conversion?
+11. What is the effectiveness of the referral program?
+12. Which user segments are most likely to make repeat deposits?
+13. What is the impact of promotional campaigns on user activity?
+14. How does session frequency correlate with monetization?
+15. What are the patterns in user complaints and their resolution?

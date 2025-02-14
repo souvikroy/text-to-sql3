@@ -1,0 +1,70 @@
+
+
+## 1. User Retention Metrics
+Retention Rate (Dx) = (Users Active on Day x / Users Who Installed on Day 0) * 100
+
+## 2. Churn Analysis
+Churn Rate = (Users Lost in Given Period / Total Active Users at Start of Period) * 100
+
+## 3. Cohort Performance (LTV Calculation)
+LTV = (Average Revenue Per User (ARPU) / Churn Rate) * Average Lifespan
+
+## 4. Player Behavior Metrics
+User Segmentation = Total Wagering Amount / Total Games Played
+
+## 5. Bonus Impact on Retention & Churn
+Bonus Retention Effect = (Users Retained After Bonus / Total Users Who Received Bonus) * 100
+
+## 6. Multi-App Behavior
+Multi-App Users = (Users Playing on Multiple Apps / Total Active Users) * 100
+
+## 7. Player Stickiness (Session Engagement)
+Average Session Duration = Total Time Spent by Users / Total Sessions Played
+
+## 8. System Latency & Impact on Retention
+Average System Latency = Total Response Time / Total Requests
+
+## 9. Revenue Metrics
+GGR = Total Wagers - Total Wins
+NGR = GGR - Bonuses - Rakeback - Marketing Costs
+Month-over-Month Growth = ((Current Month Revenue - Previous Month Revenue) / Previous Month Revenue) * 100
+
+## 10. Churn Patterns & User Characteristics
+Identify churn risk based on:
+- Drop in game participation
+- Reduced deposit frequency
+- Shorter session durations
+- Fewer reactivations
+
+## 11. Conversion Metrics
+FTD to Rolling Conversion Rate = (Users Making Second Deposit / Total First-Time Depositors) * 100
+
+## 12. Acquisition Metrics
+CAC = Total Marketing Spend / Total New Users Acquired
+CAC vs. LTV Ratio = LTV / CAC
+
+## 13. Marketing Effectiveness
+Best Performing Ads (Retention) = (Users Retained From Ad Source / Total Users Acquired From Ad Source) * 100
+Referral Effectiveness = (Referred Users Who Became Active Players / Total Referred Users) * 100
+
+## 14. VIP Player Retention
+VIP Churn Rate = (VIPs Who Churned / Total VIPs) * 100
+
+## 15. Fraud Detection in Withdrawals
+Withdrawal Abuse Rate = (Users Withdrawing Without Playing / Total Withdrawals) * 100
+
+## 16. Game Format Popularity
+Engagement by Game Format = (Players Engaging in Specific Game Type / Total Players) * 100
+
+## 17. Table & Matchmaking Fairness
+Skill-Based Matchmaking Efficiency = (Fair Matches / Total Matches) * 100
+
+## 18. Customer Support Impact on Retention
+Response Time Effectiveness = (Users Retained After Support / Users Who Contacted Support) * 100
+
+## 19. Tournament Engagement & Retention
+Tournament Participation Impact = (Tournament Participants Retained / Total Tournament Participants) * 100
+
+## 20. Loyalty Redemptions
+Loyalty Points Utilization = (Loyalty Points Redeemed / Total Loyalty Points Earned) * 100
+
