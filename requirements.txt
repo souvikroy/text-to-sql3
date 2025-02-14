@@ -1,0 +1,9 @@
+langchain-core==0.1.12
+pydantic>=2.0.0
+langsmith==0.0.83
+langchain==0.1.0
+langchain-community==0.0.13
+streamlit==1.31.1
+pandas==2.1.4
+ollama==0.1.6
+scikit-learn==1.4.1.post1

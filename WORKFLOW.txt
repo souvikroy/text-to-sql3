@@ -1,0 +1,17 @@
+create a RAG based chatbot on streamlit for text to SQl query then run and show result : data analyst AI
+
+Steps
+
+- User to ask question
+- Generate the code from SQL query without any markdown
+- Syntax check and rectify based on schema of bonus table(create a table in database from C:\Users\Souvik Roy\Downloads\text to SQL3\input\Bonus_Data.csv) & player_kpis(create a table in database from C:\Users\Souvik Roy\Downloads\text to SQL3\input\Player_KPIs.csv) table and show the updated SQL query
+- Run the updated code from bonus table & player_kpis and share result
+
+Config details :-
+
+db = SQLite
+
+use ollama, codelamma
+frontend = streamlit
+vector store = cromaDB
+
