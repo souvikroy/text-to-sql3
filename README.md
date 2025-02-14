@@ -1,6 +1,10 @@
-# SQL Query Assistant
+# AI meet BI for mobile games
 
 A RAG-based chatbot that helps generate and execute SQL queries for gaming data analysis.
+
+
+https://github.com/user-attachments/assets/974c0b14-fe78-4d77-bb53-834e1d0d1b35
+
 
 ## Setup
 
